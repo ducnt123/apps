@@ -16,6 +16,20 @@
           "versionName": "1.2.0",
           "updatedAt": "2025-09-15T10:00:00Z",
           "addedAt": "2025-09-15T10:00:00Z"
+        },
+        {
+          "name": "VTVgo",
+          "packageName": "vn.vtvgo",
+          "logo": "https://cdn.save.moe/b/DEW3yF.png?dl=1",
+          "category": "Giải trí",
+          "sizeBytes": 120000000,
+          "fileType": "apk",
+          "description": "Ứng dụng xem truyền hình trực tuyến và video theo yêu cầu của Đài Truyền hình Việt Nam.",
+          "apkUrl": "https://cdn.example.com/apk/vtvgo-150.apk",
+          "versionCode": 150,
+          "versionName": "5.0.0",
+          "updatedAt": "2025-09-30T10:00:00Z",
+          "addedAt": "2025-09-30T10:00:00Z"
         }
       ]
     },
