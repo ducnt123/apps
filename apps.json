@@ -4,55 +4,37 @@
       "name": "Giải trí",
       "apps": [
         {
-          "name": "SportsTV",
-          "packageName": "com.sports.tv",
-          "logo": "https://cdn.save.moe/b/doTA0Oc.png?dl=1",
-          "category": "Trình phát video & IPTV",
+          "name": "MovieBox",
+          "packageName": "com.example.moviebox",
+          "logo": "https://cdn.example.com/logos/moviebox.png",
+          "category": "Giải trí",
           "sizeBytes": 402653184,
           "fileType": "apk",
-          "description": "Xem thể theo trực tuyến. Sử dụng các nguồn: tctv.pro, vbtv.pro",
-          "apkUrl": "https://www.dropbox.com/scl/fi/rvlf0vd6qhtmyjb6e2og0/SportsTV_5.0.2.apk?rlkey=bmiyp84n9h51nfzlr8q1ifthi&st=dfh41kvu&dl=1",
-          "versionCode": 450,
-          "versionName": "5.0.2",
-          "updatedAt": "2025-09-15T10:00:00Z",
-          "addedAt": "2025-09-15T10:00:00Z"
-        }
-
-        {
-          "name": "SportsTV 2",
-          "packageName": "com.sports.tv",
-          "logo": "https://cdn.save.moe/b/doTA0Oc.png?dl=1",
-          "category": "Trình phát video & IPTV",
-          "sizeBytes": 402653184,
-          "fileType": "apk",
-          "description": "Xem thể theo trực tuyến. Sử dụng các nguồn: tctv.pro, vbtv.pro",
-          "apkUrl": "https://www.dropbox.com/scl/fi/rvlf0vd6qhtmyjb6e2og0/SportsTV_5.0.2.apk?rlkey=bmiyp84n9h51nfzlr8q1ifthi&st=dfh41kvu&dl=1",
-          "versionCode": 450,
-          "versionName": "5.0.2",
+          "description": "Xem phim chất lượng cao.",
+          "apkUrl": "https://cdn.example.com/apk/moviebox-120.apk",
+          "versionCode": 120,
+          "versionName": "1.2.0",
           "updatedAt": "2025-09-15T10:00:00Z",
           "addedAt": "2025-09-15T10:00:00Z"
         }
       ]
-    }
-  ]
-
-  "categories": [
+    },
     {
-      "name": "Công cụ",
+      "name": "Trò chơi",
       "apps": [
         {
-          "name": "File Manager+",
-          "packageName": "com.sports.tv",
-          "logo": "https://cdn.save.moe/b/doTA0Oc.png?dl=1",
-          "category": "Công cụ",
-          "sizeBytes": 402653184,
+          "name": "Space Invaders",
+          "packageName": "com.example.spaceinvaders",
+          "logo": "https://cdn.example.com/logos/space.png",
+          "category": "Trò chơi",
+          "sizeBytes": 104857600,
           "fileType": "apk",
-          "description": "Xem thể theo trực tuyến. Sử dụng các nguồn: tctv.pro, vbtv.pro",
-          "apkUrl": "https://www.dropbox.com/scl/fi/p5ihfxxj8kju6ojrhc37o/com.alphainventor.filemanager_2103054_apps.evozi.com.apk?rlkey=rmrng7hyvvifwt1705upj2yry&st=a47pmpr4&dl=1",
-          "versionCode": 450,
-          "versionName": "5.0.2",
-          "updatedAt": "2025-09-15T10:00:00Z",
-          "addedAt": "2025-09-15T10:00:00Z"
+          "description": "Game bắn quái ngoài không gian.",
+          "apkUrl": "https://cdn.example.com/apk/spaceinvaders-15.apk",
+          "versionCode": 15,
+          "versionName": "1.5",
+          "updatedAt": "2025-09-20T08:00:00Z",
+          "addedAt": "2025-09-20T08:00:00Z"
         }
       ]
     }
