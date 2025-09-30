@@ -4,16 +4,16 @@
       "name": "Giải trí",
       "apps": [
         {
-          "name": "MovieBox",
-          "packageName": "com.example.moviebox",
-          "logo": "https://cdn.example.com/logos/moviebox.png",
-          "category": "Giải trí",
+          "name": "SportsTV",
+          "packageName": "com.sports.tv",
+          "logo": "https://cdn.save.moe/b/doTA0Oc.png?dl=1",
+          "category": "Trình phát video & IPTV",
           "sizeBytes": 402653184,
           "fileType": "apk",
-          "description": "Xem phim chất lượng cao.",
-          "apkUrl": "https://cdn.example.com/apk/moviebox-120.apk",
-          "versionCode": 120,
-          "versionName": "1.2.0",
+          "description": "Xem thể theo trực tuyến. Sử dụng các nguồn: tctv.pro, vbtv.pro",
+          "apkUrl": "https://www.dropbox.com/scl/fi/rvlf0vd6qhtmyjb6e2og0/SportsTV_5.0.2.apk?rlkey=bmiyp84n9h51nfzlr8q1ifthi&st=dfh41kvu&dl=1",
+          "versionCode": 450,
+          "versionName": "5.0.2",
           "updatedAt": "2025-09-15T10:00:00Z",
           "addedAt": "2025-09-15T10:00:00Z"
         }
